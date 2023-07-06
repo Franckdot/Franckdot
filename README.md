@@ -22,6 +22,9 @@ You can click the Preview link to take a look at your changes.
 |     1| Java      |
 |     2| Sql       |
 |     3| Kotlin    |
+|     4| PHP       |
+|     5| Laravel   |
+
 
 <h2>Find me </h2>
 
