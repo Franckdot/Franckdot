@@ -24,6 +24,7 @@ You can click the Preview link to take a look at your changes.
 |     3| Kotlin    |
 |     4| PHP       |
 |     5| Laravel   |
+|     6| Javascript|
 
 
 <h2>Find me </h2>
