@@ -3,7 +3,7 @@
 :construction: Developer in construction :construction:
 - 👀 I’m interested in Develop Java
 - 🌱 I’m currently learning Java Technologies
-- 💞️ I’m looking to collaborate on Backend projectes
+- 💞️ I’m looking to collaborate on Backend and Android projects
 
 <!---
 Franck-dot/Franck-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes.
 |     1| Java      |
 |     2| Sql       |
 |     3| Kotlin    |
-|     4| PHP       |
-|     5| Laravel   |
-|     6| Javascript|
+|     4| Android   |
+|     5| PHP       |
+|     6| Laravel   |
+|     7| Javascript|
 
 
 <h2>Find me </h2>
