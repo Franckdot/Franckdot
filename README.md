@@ -1,20 +1,22 @@
-<h1 >👋 Hi, I’m Francisco </h1>
+#👋 Hi, I’m Francisco
 
 :construction: Developer in construction :construction:
-- 👀 I’m interested in Develop Java
-- 🌱 I’m currently learning Java Technologies
-- 💞️ I’m looking to collaborate on Backend and Android projects
-
+- [X] 👀 I’m interested in Develop Java
+- [x] 🌱 I’m currently learning Java Technologies
+- [x] 💞️ I’m looking to collaborate on Backend and Android projects
+      
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 <!---
 Franck-dot/Franck-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2>About me </h2>
+## About me
 
 <p>I´m an information technology engineer🧔 with little professional experience but with the desire to continue learning↗️</p>
 
-- 🍕 Pizza Lover
-- 🎮 Videogame Lover
+- [X]🍕 Pizza Lover
+- [X]🎮 Videogame Lover
+- [X] :biking_man: Biking
 
 | Rank | Languages |
 |-----:|-----------|
