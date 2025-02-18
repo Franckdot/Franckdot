@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <p>I´m an information technology engineer🧔 with little professional experience but with the desire to continue learning↗️</p>
 
-- [X]🍕 Pizza Lover
-- [X]🎮 Videogame Lover
+- [X] 🍕 Pizza Lover
+- [X] 🎮 Videogame Lover
 - [X] :biking_man: Biking
 
 | Rank | Languages |
