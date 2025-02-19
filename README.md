@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Francisco
 
 :construction: Developer in construction :construction:
-- [X] 👀 I’m interested in Develop Java
-- [x] 🌱 I’m currently learning Java Technologies
-- [x] 💞️ I’m looking to collaborate on Backend and Android projects
+- 👀 I’m interested in Develop Java
+- 🌱 I’m currently learning Java Technologies
+- 💞️ I’m looking to collaborate on Backend and Android projects
       
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 <!---
