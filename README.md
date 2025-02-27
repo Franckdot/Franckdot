@@ -32,7 +32,7 @@ I´m an information technology engineer🧔 with little professional experience 
 
 ### App-Bluetooth-Arduino-HC-05-
 
-![[Franckdot](https://github.com/Franckdot/App-Bluetooth-Arduino-HC-05-)](https://user-images.githubusercontent.com/77824752/211383931-d5f360ab-3dec-4f0a-894c-15f249dd6899.png)
+![[Franckdot](https://github.com/Franckdot/App-Bluetooth-Arduino-HC-05-)](https://img.freepik.com/vector-premium/pagina-aplicacion-movil-pollo-ganado-plantilla-pantalla-integrada-personajes-que-atienden-gallinas-granja-alimentacion-recoger-huevos_87771-26920.jpg)
 
 ### Sistema-Entradas-Salidas
 
