@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## About me
 
-<p>I´m an information technology engineer🧔 with little professional experience but with the desire to continue learning↗️</p>
+I´m an information technology engineer🧔 with little professional experience but with the desire to continue learning↗️
 
 - [X] 🍕 Pizza Lover
 - [X] 🎮 Videogame Lover
@@ -28,6 +28,15 @@ You can click the Preview link to take a look at your changes.
 |     6| Laravel   |
 |     7| Javascript|
 
+## Some relevant proyects
+
+### App-Bluetooth-Arduino-HC-05-
+
+![[Franckdot](https://github.com/Franckdot/App-Bluetooth-Arduino-HC-05-)](https://user-images.githubusercontent.com/77824752/211383931-d5f360ab-3dec-4f0a-894c-15f249dd6899.png)
+
+### Sistema-Entradas-Salidas
+
+![[Franckdot](https://github.com/Franckdot/Sistema-Entradas-Salidas)](https://th.bing.com/th/id/OIP.RFJu3zLebtfb7SY_lKA2cAHaD8?rs=1&pid=ImgDetMain)
 
 ## Find me
 
