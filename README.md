@@ -2,8 +2,8 @@
 
 :construction: Developer in construction :construction:
 - 👀 I’m interested in Develop Java
-- 🌱 I’m currently learning Java Technologies
-- 💞️ I’m looking to collaborate on Backend and Android projects
+- 🌱 I’m currently learning Technologies
+- 💞️ I’m looking to collaborate on interesting projects
 
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -32,6 +32,7 @@ I´m an information technology engineer🧔 with little professional experience 
 |     5| PHP       |
 |     6| Laravel   |
 |     7| Javascript|
+|     8| VB        |
 
 ## Some relevant proyects
 
